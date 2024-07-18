@@ -3,5 +3,5 @@ const endpoint = {
     //base path of api
 }
 
-// checking
+//gg
 module.exports = endpoint;
